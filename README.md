@@ -1,6 +1,6 @@
 # basicLoRA
 
-Implementing LoRA from scratch as a learning exercise.
+Implementing [low-rank adaptation (LoRA)](https://arxiv.org/abs/2106.09685) from scratch as a learning exercise.
 
 ## Overview
 
